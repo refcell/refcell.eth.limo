@@ -3,8 +3,8 @@ email:
 description: >-
   A blog for Refcell's ruminations and ramblings.
   Topcis not guaranteed.
-baseurl: "blog"
-url: "https://refcell.eth.limo/"
+baseurl: "refcell.eth.limo"
+url: "https://refcell.github.io/"
 twitter_username: andreaslbigger
 github_username: refcell
 
