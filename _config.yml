@@ -1,0 +1,19 @@
+title: Refcell's Blog
+email:
+description: >-
+  A blog for Refcell's ruminations and ramblings.
+  Topcis not guaranteed.
+baseurl: "blog"
+url: "https://refcell.eth.limo/"
+twitter_username: andreaslbigger
+github_username: refcell
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Hide future dated posts from live blog
+future: false
+
+markdown: kramdown
